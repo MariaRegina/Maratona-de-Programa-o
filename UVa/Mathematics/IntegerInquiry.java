@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-class IntegerInquiry{
+class Main/*IntegerInquiry*/{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		BigInteger sum = BigInteger.valueOf(0);
