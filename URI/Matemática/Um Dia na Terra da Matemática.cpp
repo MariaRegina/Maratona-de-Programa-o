@@ -1,6 +1,6 @@
 /*
  * URI - 1570 - Um Dia na Terra da Matemática
- * https://www.urionlinejudge.com.br/judge/pt/runs/code/10889780
+ * https://www.urionlinejudge.com.br/judge/pt/problems/view/1570
 */
 
 #include <bits/stdc++.h>
